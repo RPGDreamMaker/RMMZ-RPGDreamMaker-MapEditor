@@ -5,7 +5,7 @@
     "window": {
         "title": "RPGDM_DotMoveSystemExtensions",
         "width": 800,
-        "height": 2000,
+        "height": 600,
         "position": "center",
         "icon": "icon/icon.png"
     }
