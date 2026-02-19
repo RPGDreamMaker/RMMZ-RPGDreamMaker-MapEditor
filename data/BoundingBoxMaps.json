@@ -1,0 +1,149 @@
+{
+  "1": {
+    "player": {
+      "width": 0.75,
+      "height": 0.75,
+      "offsetX": -0.15,
+      "offsetY": -0.15
+    },
+    "followers": [
+      {
+        "width": 0.75,
+        "height": 0.75,
+        "offsetX": -0.15,
+        "offsetY": -0.15
+      },
+      {
+        "width": 0.75,
+        "height": 0.75,
+        "offsetX": -0.15,
+        "offsetY": -0.15
+      },
+      {
+        "width": 0.75,
+        "height": 0.75,
+        "offsetX": -0.15,
+        "offsetY": -0.15
+      }
+    ],
+    "events": {
+      "1": {
+        "width": 1.4,
+        "height": 1.4,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "2": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "3": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "4": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "5": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "6": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "7": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "8": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "9": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      "10": {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      }
+    }
+  },
+  "2": {
+    "player": {
+      "width": 2,
+      "height": 2,
+      "offsetX": 0,
+      "offsetY": 0
+    },
+    "followers": [
+      {
+        "width": 2,
+        "height": 2,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      {
+        "width": 2,
+        "height": 2,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      {
+        "width": 2,
+        "height": 2,
+        "offsetX": 0,
+        "offsetY": 0
+      }
+    ]
+  },
+  "4": {
+    "player": {
+      "width": 1,
+      "height": 1,
+      "offsetX": 0,
+      "offsetY": 0
+    },
+    "followers": [
+      {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      },
+      {
+        "width": 1,
+        "height": 1,
+        "offsetX": 0,
+        "offsetY": 0
+      }
+    ],
+    "events": {}
+  }
+}

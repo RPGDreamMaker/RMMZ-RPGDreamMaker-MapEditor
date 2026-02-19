@@ -1,0 +1,69 @@
+{
+  "1": [
+    {
+      "filename": "!bus_stop_area_overlay2 - Red",
+      "mapX": 0,
+      "mapY": 0,
+      "alpha": 1,
+      "thresholdY": 240,
+      "zOffset": 0,
+      "visible": true
+    },
+    {
+      "filename": "!bus_stop_area_overlay1 - Red",
+      "mapX": 0,
+      "mapY": 0,
+      "alpha": 1,
+      "thresholdY": 635,
+      "zOffset": 0,
+      "visible": true
+    },
+    {
+      "filename": "!bus_stop_area_overlay0 - Red",
+      "mapX": 0,
+      "mapY": 0,
+      "alpha": 1,
+      "thresholdY": 1000,
+      "zOffset": 0,
+      "visible": true
+    }
+  ],
+  "2": [
+    {
+      "filename": "!bus_stop_area_overlay2",
+      "mapX": 0,
+      "mapY": 0,
+      "alpha": 1,
+      "thresholdY": 270,
+      "zOffset": 0,
+      "visible": true
+    },
+    {
+      "filename": "!bus_stop_area_overlay1",
+      "mapX": 0,
+      "mapY": 0,
+      "alpha": 1,
+      "thresholdY": 610,
+      "zOffset": 0,
+      "visible": true
+    },
+    {
+      "filename": "!bus_stop_area_overlay0",
+      "mapX": 0,
+      "mapY": 0,
+      "alpha": 1,
+      "thresholdY": 1024,
+      "zOffset": 0,
+      "visible": true
+    },
+    {
+      "filename": "bus_stop_area_cm",
+      "mapX": 0,
+      "mapY": 0,
+      "alpha": 0.2,
+      "thresholdY": 0,
+      "zOffset": 0,
+      "visible": true
+    }
+  ]
+}

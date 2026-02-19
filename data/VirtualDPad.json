@@ -1,0 +1,19 @@
+{
+  "STICK_MODE": 2,
+  "PAD_SIZE": 304,
+  "STICK_SIZE": 100,
+  "BUTTON_SIZE": 116,
+  "PAD_STROKE_COLOR": "#0000aa",
+  "PAD_FILL_COLOR": "#ffffff",
+  "PAD_OPACITY": 128,
+  "STICK_STROKE_COLOR": "#0000aa",
+  "STICK_FILL_COLOR": "#ffffff",
+  "BUTTON_FILL_COLOR_1": "#0000ff",
+  "BUTTON_FILL_COLOR_2": "#00ff00",
+  "BUTTON_FILL_COLOR_3": "#ffff00",
+  "BUTTON_FILL_COLOR_4": "#ff0000",
+  "BUTTON_ACTION_1": "shift",
+  "BUTTON_ACTION_2": "menu",
+  "BUTTON_ACTION_3": "ok",
+  "BUTTON_ACTION_4": "cancel"
+}

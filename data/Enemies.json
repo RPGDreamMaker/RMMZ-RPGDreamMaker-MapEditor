@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"actions":[],"battlerHue":0,"battlerName":"","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":10,"traits":[],"gold":5,"name":"Enemy","note":"","params":[200,0,25,20,20,20,20,20]}
+]
